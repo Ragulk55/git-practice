@@ -1,4 +1,4 @@
-nHello Git
+Hello Git
 This is my First Git file!
 Learning Git Basics
 
