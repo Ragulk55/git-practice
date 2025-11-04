@@ -1,3 +1,9 @@
 Hello Git
 This is my First Git file!
 Learning Git Basics
+
+
+"Git is awesome!"
+
+Second line update
+
